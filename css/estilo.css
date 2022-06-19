@@ -1,0 +1,29 @@
+body{
+	background-color: #ffe19c;
+	color: black;
+	margin-right: 76px;
+	margin-left: 113px;
+	margin-top: 113px;
+	margin-bottom: 76px;
+	font-family: sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+figure{
+	text-align: center;
+
+}
+
+figcaption{
+	font-size: small;
+	opacity: 70%;
+}
+
+footer{
+	text-align: center;
+	font-size: small;
+	margin-top: 20px;
+}
